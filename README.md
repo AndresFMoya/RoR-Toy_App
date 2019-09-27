@@ -12,5 +12,5 @@ The following is a live version of the project:
 
 ## Authors
 
-[AndresFMoya] (https://github.com/AndresFMoya)
-[Kerron King] (https://github.com/KerronKing)
+[AndresFMoya](https://github.com/AndresFMoya)
+[Kerron King](https://github.com/KerronKing)
